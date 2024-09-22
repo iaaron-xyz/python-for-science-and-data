@@ -1,2 +1,3 @@
-# Notebooks with useful python code I use in Physics and Data Science
-This repository contains my collection of python code most used for physics and data science in form of jupyter notebooks.
+# Python for Science and Data
+
+A collection of notes and guides about the essential libraries in python for Science, Data Analysis, Machine Learning, Mathematics and Statistics.
