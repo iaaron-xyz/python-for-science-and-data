@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 .venv
+venv
 
 # Heavy datasets
 Online_Retail.csv
